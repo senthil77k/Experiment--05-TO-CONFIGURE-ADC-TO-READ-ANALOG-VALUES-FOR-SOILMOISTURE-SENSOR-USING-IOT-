@@ -1,5 +1,5 @@
 # EXPERIMENT-05-SOIL-MOISTURE-SENSOR-INTERFACE-TO-IOT-DEVELOPMENT-BOARD
-## NAME:SENTHIL KUMARAN C
+## NAME:SENTHIL KUMMARAN C
 ## REGISTER NUMBER: 212223220103
 
 ## Aim: 
@@ -438,12 +438,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
+
+
+## kit photo
+<img width="960" height="1088" alt="cf1fbf08-c31c-4f82-b899-2276458b4f57 (1)" src="https://github.com/user-attachments/assets/ceec0114-4886-431e-86d0-530b9126d3ec" />
+
 ## Output screen shots on serial monitor   :
-
-
-<img width="896" height="1152" alt="image" src="https://github.com/user-attachments/assets/7acb61bc-a8f8-49a3-bfa9-f63b4c3400e1" />
-
-
 <img width="1055" height="668" alt="image" src="https://github.com/user-attachments/assets/2c28320e-a3d3-40b5-9037-9470b3e82828" />
 
 
